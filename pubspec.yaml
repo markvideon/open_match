@@ -1,7 +1,6 @@
 name: open_match
-description: gRPC generated client for Open Match - a library for hosting, running and scaling
-  dedicated game servers on Kubernetes.
-version: 1.6.0
+description: gRPC generated client for Open Match - an open source game matchmaking framework that simplifies building a scalable and extensible Matchmaker.
+version: 1.6.0+1
 homepage: https://markvideon.dev
 
 environment:
