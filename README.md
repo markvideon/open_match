@@ -15,7 +15,7 @@ and the Flutter guide for
 
 [![pub package](https://img.shields.io/pub/v/open_match.svg)](https://pub.dev/packages/open_match)
 
-Open Match is an open source game matchmaking framework that simplifies building a scalable and extensible Matchmaker.
+[Open Match](https://open-match.dev/site/docs/) is an open source game matchmaking framework that simplifies building a scalable and extensible Matchmaker.
 
 This package is predominantly a [gRPC](https://grpc.io/docs/languages/dart/quickstart/) generated client, using [protoc](https://grpc.io/docs/protoc-installation/).
 
